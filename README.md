@@ -17,6 +17,8 @@ ADR was an electronic acquisition device that could record an analog signal wave
 * Design: CAMAC module 2M-wide
 * PCB: single-board 2-layer
 
+## Background
+
 The module was developed for Institute of Electrophysics of the Ural Branch of the Russian Academy of Sciences to record the events occurring in high-current pulse devices, where typical process looks like an explosion of microsecond duration range.
 
-The device was presented on 8th International Symposium on Modular Information Computer Systems and Networks (ICSNET'91).
+The device was presented on International Symposium on Problems of Modular Information Computer Systems and Networks (ICSNET'91).
