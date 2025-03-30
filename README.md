@@ -2,7 +2,7 @@
 
 *Analog-to-digital recorder (ADR) for data acquisition of single-event fast-flowing processes*
 
-ADR is an electronic acquisition device that uses four 50 MSa/s flash analog-to-digital converters (ADCs) with time-interleaving to record an analog signal waveform at a total sample rate of 200 MS/s. The samples digitized by the ADCs are temporarily stored in a buffer memory before they are sent to a computer through the CAMAC bus interface.
+ADR is an electronic acquisition device using four 50 MSa/s flash analog-to-digital converters (ADCs) with time-interleaving sampling to record an analog signal waveform at a total sample rate of 200 MSa/s. The samples digitized by the ADCs are temporarily stored in a buffer memory before sending to a PC through the CAMAC bus controller.
 
 ## Main features
 
@@ -19,6 +19,6 @@ ADR is an electronic acquisition device that uses four 50 MSa/s flash analog-to-
 
 ## Background
 
-The module was developed for the Institute of Electrophysics of the Ural Branch of the Russian Academy of Sciences to record the events occurring in high-current pulse devices, where typical process looks like an explosion of microsecond duration range.
+The module was developed for the Institute of Electrophysics of the Academy of Sciences of the Soviet Union to acquire the events occurring in high-current pulse devices, where typical process looks like an explosion of microseconds range.
 
 The device was presented at the International Symposium on Problems of Modular Information Computer Systems and Networks (ICSNET'91).
