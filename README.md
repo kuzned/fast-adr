@@ -2,7 +2,7 @@
 
 *Analog-to-digital recorder (ADR) for data acquisition of single-event fast-flowing processes*
 
-Fast ADR is an electronic acquisition device using four 50 MSa/s flash analog-to-digital converters (ADCs) with time-interleaving sampling to record single-shot analog waveforms at a total sample rate of 200 MSa/s. The samples digitized by the ADCs then are temporarily stored in a buffer static memory before sending to a PC through the CAMAC bus controller.
+Fast ADR is an electronic acquisition device using four 50 MSa/s flash analog-to-digital converters (ADCs) with time-interleaved sampling to record single-shot analog waveforms at a total sample rate of 200 MSa/s. The samples digitized by the ADCs then are temporarily stored in a buffer static memory before sending to a PC through the CAMAC bus controller.
 
 ## Main features
 
