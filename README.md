@@ -19,6 +19,6 @@ Fast ADR is an electronic acquisition device using four 50 MSa/s flash analog-to
 
 ## Background
 
-The module was developed for the Institute of Electrophysics of the Academy of Sciences of the Soviet Union to acquire the events occurring in high-current pulse devices, where typical process looks like an explosion of microseconds range.
+The module was developed for the Institute of Electrophysics of the Ural Branch of the Academy of Sciences of the Soviet Union to acquire the events occurring in high-current pulse devices, where typical process looks like an explosion of microseconds range.
 
-The device was presented at the International Symposium on Problems of Modular Information Computer Systems and Networks (ICSNET'91).
+The device was presented at the International Symposium on Problems of Modular Information Computer Systems and Networks.
